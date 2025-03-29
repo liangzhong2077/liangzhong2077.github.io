@@ -7,7 +7,155 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Liang Zhong</copyright>
-        <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://liangzhong2077.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://liangzhong2077.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notes on *A Guide to Econometrics Research at Princeton*</title>
+        <link>https://liangzhong2077.github.io/p/notes-on-a-guide-to-econometrics-research-at-princeton/</link>
+        <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://liangzhong2077.github.io/p/notes-on-a-guide-to-econometrics-research-at-princeton/</guid>
+        <description>&lt;h1 id=&#34;notes-on-a-guide-to-econometrics-research-at-princeton-by-michael-s-weisbach&#34;&gt;📘Notes on &lt;em&gt;A Guide to Econometrics Research at Princeton&lt;/em&gt; (by Michael S. Weisbach)
+&lt;/h1&gt;&lt;h2 id=&#34;-preface&#34;&gt;✨ Preface
+&lt;/h2&gt;&lt;p&gt;PhD students should devote their time to the following activities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Initiating research projects&lt;/li&gt;
+&lt;li&gt;Convincing readers to care about their papers&lt;/li&gt;
+&lt;li&gt;Writing papers&lt;/li&gt;
+&lt;li&gt;Presenting research&lt;/li&gt;
+&lt;li&gt;Accumulating the human capital necessary for a successful academic career after completing the dissertation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Too many papers are astonishingly long and mind-numbingly dull; introductions ramble on without clarifying the core argument; data descriptions lack detail, making replication impossible; tables are unnecessary or confusingly labeled; the writing is dry and passive. Presentations reveal main results only in the final five minutes; slides are poorly designed and unreadable; junior scholars lack coherent research agendas and don’t engage with academic communities.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The author emphasizes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Researchers should treat each paper as part of a broader research agenda—aimed at building a coherent program of inquiry, not just producing standalone contributions.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;🧠 &lt;strong&gt;Core insight:&lt;/strong&gt; The earlier a scholar realizes that &lt;em&gt;interesting writing&lt;/em&gt; is crucial to writing well, the better their work will be.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-chapter-1-how-to-conduct-academic-research&#34;&gt;🧪 Chapter 1: How to Conduct Academic Research
+&lt;/h2&gt;&lt;h3 id=&#34;three-key-characteristics-of-research-as-illustrated-by-andrew-wiles&#34;&gt;Three Key Characteristics of Research (as illustrated by Andrew Wiles):
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pose your own questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Much of research involves crafting the right questions, not just answering existing ones.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Collaborate and seek feedback:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Most papers are coauthored. Even solo work benefits from frequent discussion and revision.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Clarify your contribution and motivation:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A good paper explains not only what it does but also &lt;em&gt;why it matters&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-hidden-curriculum-of-phd-training&#34;&gt;The &amp;ldquo;hidden curriculum&amp;rdquo; of PhD training:
+&lt;/h3&gt;&lt;p&gt;Beyond coursework, PhD students learn what makes research important by participating in discussions (e.g., at NBER), dissecting models, evaluating empirical work, and identifying unanswered questions.&lt;/p&gt;
+&lt;h3 id=&#34;current-trends&#34;&gt;Current Trends:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Academic research is increasingly global.&lt;/li&gt;
+&lt;li&gt;Fields are becoming more specialized and narrow.&lt;/li&gt;
+&lt;li&gt;Publishing in top journals is increasingly competitive.&lt;/li&gt;
+&lt;li&gt;Academic circles are more political and closed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🧠 &lt;strong&gt;Advice:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid becoming a “multi-project procrastinator” or a “perfectionist with no output.”&lt;/li&gt;
+&lt;li&gt;Learn to create a &lt;em&gt;research map&lt;/em&gt;—what do we know, what don’t we know, and why aren’t certain problems solved?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing isn’t just about publication—it’s about engaging others, informing, and stimulating thought.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-chapter-2-choosing-research-topics&#34;&gt;🎯 Chapter 2: Choosing Research Topics
+&lt;/h2&gt;&lt;h3 id=&#34;a-two-step-framework&#34;&gt;A Two-Step Framework:
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Clarify your &lt;strong&gt;long-term goals&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Choose specific projects that align with your broader agenda.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;the-power-of-focus&#34;&gt;The Power of Focus:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Working on a related set of questions creates research continuity.&lt;/li&gt;
+&lt;li&gt;Enhances academic identity and helps in obtaining letters of recommendation.&lt;/li&gt;
+&lt;li&gt;For example:
+&lt;ul&gt;
+&lt;li&gt;“The effects of machine learning on advertising”&lt;/li&gt;
+&lt;li&gt;“Causes and consequences of Euro adoption in Europe”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-motivation&#34;&gt;Research Motivation:
+&lt;/h3&gt;&lt;p&gt;Be a &lt;em&gt;research hunter&lt;/em&gt;, solving problems that genuinely interest you—not just chasing hot topics or grant money.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Example: Kahneman and Tversky challenged the rational behavior paradigm through disagreement and independent thought, focusing on underexplored but important ideas.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;methodological-style&#34;&gt;Methodological Style:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Alan Krueger exemplified this through labor economics using empirically identifiable methods.&lt;/li&gt;
+&lt;li&gt;Emphasized originality, hand-collected data, and causal inference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;self-assessment-checklist&#34;&gt;Self-Assessment Checklist:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Am I excited about this topic?&lt;/li&gt;
+&lt;li&gt;Will I still enjoy working on it repeatedly?&lt;/li&gt;
+&lt;li&gt;Is it worth investing time to learn new tools/background?&lt;/li&gt;
+&lt;li&gt;Can I leverage my comparative advantages?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;starting-points-for-research&#34;&gt;Starting Points for Research:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Revisit classical problems with new perspectives.&lt;/li&gt;
+&lt;li&gt;Address large real-world issues that remain poorly understood.&lt;/li&gt;
+&lt;li&gt;Avoid overcrowded topics—aim for fundamental, underexplored, structurally important questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The most influential research often arises from genuinely important problems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-chapter-3-strategic-issues-in-building-a-research-portfolio&#34;&gt;🎲 Chapter 3: Strategic Issues in Building a Research Portfolio
+&lt;/h2&gt;&lt;h3 id=&#34;research-goal&#34;&gt;Research Goal:
+&lt;/h3&gt;&lt;p&gt;Produce &lt;strong&gt;impactful work&lt;/strong&gt; that reshapes how people think about important questions—not just pad your CV with unread papers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explanation beats quantity and publication venue:&lt;/strong&gt;&lt;br&gt;
+Your impact depends on how well you clarify what new knowledge your paper contributes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ideal situation:&lt;/strong&gt;&lt;br&gt;
+Always have several projects in a presentable stage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;coauthorship-strategy&#34;&gt;Coauthorship Strategy:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Seek collaborators with complementary interests and skills.&lt;/li&gt;
+&lt;li&gt;Prioritize those who can get things done.&lt;/li&gt;
+&lt;li&gt;Understand the dynamics: senior vs junior scholars, reputational risks, and motivational alignment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🧠 Coauthor Checklist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is their research aligned with yours?&lt;/li&gt;
+&lt;li&gt;Can they bring skills or networks you lack?&lt;/li&gt;
+&lt;li&gt;What happens if disagreements arise?&lt;/li&gt;
+&lt;li&gt;How much effort will each party contribute?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-chapter-4-strategies-for-drafting-a-paper&#34;&gt;📝 Chapter 4: Strategies for Drafting a Paper
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Challenge for unknown authors:&lt;/strong&gt;&lt;br&gt;
+It&amp;rsquo;s harder to get into top journals or course syllabi without name recognition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reviewers care most about:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract&lt;/li&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;(Main body is secondary; appendices are rarely read)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Therefore: Your writing strategy should focus on crafting concise and compelling abstracts and introductions.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>Beginnings and Beyond</title>
         <link>https://liangzhong2077.github.io/p/beginnings-and-beyond/</link>
         <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
